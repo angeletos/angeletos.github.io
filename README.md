@@ -1,6 +1,6 @@
 # angeletos.github.io
 
-Code, examples, notes, tips & tricks about my software development experiences...
+Code, examples, notes, tips & tricks from my software development experiences...
 
 ```java
 System.out.println("Welcome!");
